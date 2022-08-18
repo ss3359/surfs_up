@@ -31,3 +31,4 @@ Here is the descriptive statistics for the preciptation obtained in December.
 <img width="358" alt="Screen Shot 2022-08-15 at 4 25 19 PM" src="https://user-images.githubusercontent.com/104328106/184730088-06a0173e-2d94-4313-b860-963f2e763a1b.png">
 
 
+In conclusion, based on the previous weather data, Oahu is a great location to start and grow an ice cream and suref shop business. 
